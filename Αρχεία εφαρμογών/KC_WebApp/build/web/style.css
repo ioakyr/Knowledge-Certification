@@ -1,0 +1,6 @@
+body { 
+	background-color: #A9BCF5;
+}
+table th { background-color: #5882FA; color: white; }
+table td { background-color: white; color: black; }
+#linkButton { background: none; border: none; color: black; text-decoration: underline; cursor: pointer; }
